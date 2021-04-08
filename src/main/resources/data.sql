@@ -1,0 +1,2 @@
+INSERT INTO BILLETT (film, antall, fornavn, etternavn, telefonnr, epost) VALUES ('Inglorious Bastards', 2, 'Per', 'Hansen', '12341234', 'en@post.no');
+INSERT INTO BILLETT (film, antall, fornavn, etternavn, telefonnr, epost) VALUES ('Imitation Game', 1, 'Line', 'Jensen', '44332211', 'line@mail.com');
