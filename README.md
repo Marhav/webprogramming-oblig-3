@@ -1,13 +1,9 @@
-Oblig X
-=======
-OsloMet brukernavn:
+### Oblig 3 Webprogramming
 
-GitHub brukernavn:
+In this project we were tasked with making a trivial web application for purchasing movie tickets. 
 
-GitHub repo URL:
+The application uses Spring API for communication between client and server. 
 
-URL til Heroku app:
+The data is stored in a relation database using H2 Database. 
 
-Fullt navn:
-
-Kort beskrivelse av applikasjon (5–10 setninger):
+I have not paid any attention to input validation in this project, since it was not asked of us. Regex for input validation was a topic later in the course. 
